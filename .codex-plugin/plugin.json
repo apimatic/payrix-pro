@@ -1,0 +1,9 @@
+{
+  "name": "payrix-pro",
+  "version": "0.1.0",
+  "description": "Integrate and consume the APIMatic-generated Payrix SDK — bundled skills for C#/.NET, Python, TypeScript.",
+  "skills": "./skills",
+  "interface": {
+    "displayName": "Payrix Pro API"
+  }
+}
